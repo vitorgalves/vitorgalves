@@ -22,9 +22,8 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Graphql](https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white)&nbsp;
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<img src="https://img.freepik.com/vetores-gratis/fundo-do-espaco-com-galaxia-e-meteoritos_1308-65131.jpg?w=900&t=st=1704416286~exp=1704416886~hmac=186cc173355a43249472b75d62f16c63f1a611092fb9e81c874f05423e32d53c" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://img.itch.zone/aW1nLzgyMjI2NDMucG5n/original/XNR0Na.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Secondary Stack:
 
