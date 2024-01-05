@@ -23,7 +23,7 @@
 ![Graphql](https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white)&nbsp;
 
 
-<img src="https://img.itch.zone/aW1nLzgyMjI2NDMucG5n/original/XNR0Na.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://universe.nasa.gov/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbFlFIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--84034fb051c01afcbc66469db2301f971d9995ab/Barred-01@150x.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Secondary Stack:
 
