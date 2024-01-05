@@ -1,6 +1,5 @@
-### Hi, I am Vitor Alves 👋
 
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/vitorgalves/vitorgalves/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
+<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/vitorgalves/vitorgalves/blob/b45ae6ae38f0f815cf1cf77fa888e3fdf82d52b4/header.png" />
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">I help to understand the world with technology.🪐 <br><br> I work with extragalactic astrophysics and this allows me to delve into statistical knowledge useful in data analysis. I currently use the R language for <strong>statistical analysis</strong> in galaxy kinematics and Python for <strong>data manipulation in spectroscopy</strong>.</p>&nbsp;
