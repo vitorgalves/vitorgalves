@@ -1,5 +1,5 @@
 
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/vitorgalves/vitorgalves/blob/b45ae6ae38f0f815cf1cf77fa888e3fdf82d52b4/header.png" />
+<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/vitorgalves/vitorgalves/blob/d47ebc0f9c2e6c49829807215d5c4806586f532b/header2.png" />
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">I help to understand the world with technology.🪐 <br><br> I work with extragalactic astrophysics and this allows me to delve into statistical knowledge useful in data analysis. I currently use the R language for <strong>statistical analysis</strong> in galaxy kinematics and Python for <strong>data manipulation in spectroscopy</strong>.</p>&nbsp;
