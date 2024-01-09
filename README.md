@@ -5,7 +5,7 @@
 <p align="center">I help to understand the world with technology.🪐 <br><br> I work with extragalactic astrophysics and this allows me to delve into statistical knowledge useful in data analysis. I currently use the R language for <strong>statistical analysis</strong> in galaxy kinematics and Python for <strong>data manipulation in spectroscopy</strong>.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=vitorgalves&theme=radical&mode=weekly" />
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=vitorgalves&theme=radical&mode=weekly"/>
 <!--img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=rafaelalexandrino&show_icons=true&theme=radical&layout=compact" /-->
  </div>
 
